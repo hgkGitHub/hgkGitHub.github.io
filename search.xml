@@ -4,26 +4,29 @@
   
     
     <entry>
-      <title>图片演示</title>
-      <link href="/2021/11/11/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%87/"/>
-      <url>/2021/11/11/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%87/</url>
+      <title>周杰伦</title>
+      <link href="/posts/f40257812/"/>
+      <url>/posts/f40257812/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/11/11/yb4Vv7orcgqMXHd.jpg" alt="图片描述"></p><p><img src="https://i.loli.net/2021/11/11/L2mQ7Pzs1EFoNJq.jpg" alt="hello"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>代码演示</title>
-      <link href="/2021/11/11/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
-      <url>/2021/11/11/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
-      
-        <content type="html"><![CDATA[<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>hello博客！！<br>hello博客！！<br>hello博客！！<br>hello博客！！</p><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><p>hello博客！！<br>hello博客！！<br>hello博客！！<br>hello博客！！<br>hello博客！！</p><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>hello博客！！<br>hello博客！！</p><h2 id="二级标题-2"><a href="#二级标题-2" class="headerlink" title="二级标题"></a>二级标题</h2><p>hello博客！！<br>hello博客！！<br>hello博客！！<br>hello博客！！</p><h3 id="三级标题-1"><a href="#三级标题-1" class="headerlink" title="三级标题"></a>三级标题</h3><p>hello博客！！<br>hello博客！！</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">a</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="周杰伦简介"><a href="#周杰伦简介" class="headerlink" title="周杰伦简介"></a>周杰伦简介</h2><p>中国台湾华语流行歌手、著名音乐人、音乐创作家、作曲家、作词人、制作人、杰威尔音乐公司老板之一、导演。<br>近年涉足电影行业。周杰伦是2000年后亚洲流行乐曲风格，尤以融合中西式曲风的嘻哈或节奏蓝调最为著名，可说是开创华语流行音乐“中国风”的先声。周杰伦的出现打破了亚洲流行乐坛长年停滞不前的局面，为亚洲流行乐坛翻开了新的一页！</p><h2 id="代表作"><a href="#代表作" class="headerlink" title="代表作"></a>代表作</h2><p>1、<a href="https://www.kugou.com/mvweb/html/mv_592103.html">稻香</a><br>2、<a href="https://www.kugou.com/mvweb/html/mv_596344.html">夜曲</a><br>3、<a href="https://www.kugou.com/mvweb/html/mv_589001.html">告白气球</a><br>4、<a href="https://www.kugou.com/mvweb/html/mv_117613.html">晴天</a><br>5、<a href="https://www.kugou.com/mvweb/html/mv_29532.html">花海</a><br>6、<a href="https://www.kugou.com/mvweb/html/mv_756969.html">七里香</a><br>7、<a href="https://www.kugou.com/mvweb/html/mv_592096.html">青花瓷</a><br>8、<a href="https://www.kugou.com/mvweb/html/mv_596504.html">明明就</a><br>9、<a href="https://www.kugou.com/mvweb/html/mv_32776.html">一路向北</a><br>10、<a href="https://www.kugou.com/mvweb/html/mv_596264.html">给我一首歌的时间</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 明星篇 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 周董 </tag>
+            
+            <tag> 杰伦 </tag>
+            
+            <tag> Jay Chou </tag>
+            
+        </tags>
       
     </entry>
     
@@ -31,8 +34,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2021/11/10/hello-world/"/>
-      <url>/2021/11/10/hello-world/</url>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h2 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
