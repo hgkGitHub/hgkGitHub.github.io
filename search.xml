@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/posts/0/"/>
-      <url>/posts/0/</url>
-      
-        <content type="html"><![CDATA[<p>git的命令</p><p>扩展：</p><p>①删除文件</p><p>命令：git rm -r –cached 文件名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220126160359259.png" alt="image-20220126160359259"></p><p>​       ①git首次安装必须设置一下用户签名，否则无法提交代码</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220126161742461.png" alt="image-20220126161742461"></p><p>   ②初始化本地库</p><p>命令： git init</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220126161939757.png" alt="image-20220126161939757"></p><p>③查看本地库状态</p><p>命令：git status</p><p>④添加到暂存区</p><p>命令：git add 文件名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220127205436905.png" alt="image-20220127205436905"></p><p>从暂存区中删除，但是本地库中仍有此文件</p><p>命令：git rm –cached 文件名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220127205618086.png" alt="image-20220127205618086"></p><p>⑤提交到本地库</p><p>命令： git commit -m “日志信息” 文件名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220127210744302.png" alt="image-20220127210744302"></p><p>查看版本命令</p><p>1、命令：git reflog</p><p>查看版本的详细信息</p><p>2、命令：git log</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220127211222698.png" alt="image-20220127211222698"></p><p>⑥修改文件</p><p>命令：vim 文件名</p><p>将修改文件再次加入到暂存区</p><p>命令： git add 文件名</p><p>查看状态</p><p>命令：git status</p><p>再次把文件提交到本地库</p><p>命令： git commit -m “日志信息” 文件名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220127231905862.png" alt="image-20220127231905862"></p><p>⑦版本穿梭</p><p>命令：git reset –hard 版本号</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220128011911084.png" alt="image-20220128011911084"></p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220128215835761.png" alt="image-20220128215835761"></p><p>二、分支的操作</p><p>①创建分支</p><p>命令：git branch 分支名</p><p>②切换分支</p><p>git checkout 分支名</p><p>③查看分支</p><p>git branch -v</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220129003504507.png" alt="image-20220129003504507"></p><p>④合并分支</p><p>命令：git merge 分支名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220129005704448.png" alt="image-20220129005704448"></p><p>合并分支异常</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220129153408684.png" alt="image-20220129153408684"></p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220130235651045.png" alt="image-20220130235651045"></p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220129153734503.png" alt="image-20220129153734503"></p><p>三、远程库</p><p>①创建别名</p><p>命令：git remote add 别名 远程库名</p><p>②查看远程库别名</p><p>命令：git remote -v</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220203234548776.png" alt="image-20220203234548776"></p><p>③删除远程库别名</p><p>命令：git remote rm 别名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220203234647898.png" alt="image-20220203234647898"></p><p>④推送本地库代码至远程库</p><p>命令：git push 远程库名(别名) 分支名</p><p>⑤拉取远程库代码到本地库</p><p>命令：git pull 远程库名（别名）分支名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220204013125608.png" alt="image-20220204013125608"></p><p>⑥克隆远程库代码到本地库</p><p>命令：git clone 远程库名</p><p><img src="C:\Users\hgkhjd123\AppData\Roaming\Typora\typora-user-images\image-20220204013923132.png" alt="image-20220204013923132"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>科比·布莱恩特</title>
       <link href="/posts/82324/"/>
       <url>/posts/82324/</url>
